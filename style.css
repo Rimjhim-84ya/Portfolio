@@ -6,7 +6,7 @@
 }
 body{
     color:#ededed;
-    background: url(Assets/3357684.jpg) no-repeat;
+    background: url('3357684.jpg') no-repeat;
     background-size: cover; 
 }
 .header{
@@ -45,7 +45,7 @@ body{
     width: 100%;
     justify-content: space-between;
     height: 100vh;
-    background:url(3357684.jpg) no-repeat;
+    background:url('3357684.jpg') no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
